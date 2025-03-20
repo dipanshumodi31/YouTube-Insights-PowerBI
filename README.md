@@ -62,21 +62,27 @@ This project automates the process of extracting YouTube channel data, storing i
 ```sh
 git clone https://github.com/dipanshumodi31/YouTube-Insights-PowerBI.git
 cd YouTube-Insights-PowerBI
+```
 ### 2️⃣ Install Dependencies
 ```sh
 pip install pandas openpyxl schedule
+```
 ### 3️⃣ Run the Script
 ```sh
 python main.py
+```
 ### 4️⃣ Open Power BI & Connect to YouTube_Data.xlsx
-Load the data.
-Refresh manually or enable DirectQuery for real-time updates.
-🤖 Future Enhancements
+- Load the data.
+- Refresh manually or enable DirectQuery for real-time updates.
+
+---
+
+## 🤖 Future Enhancements
 🔹 SQL Database Integration for better scalability.
 🔹 More KPIs (e.g., watch time, retention rate).
 🔹 Web App Deployment for easy accessibility.
 
-📩 Connect & Contribute
+## 📩 Connect & Contribute
 💡 Have ideas or improvements? Fork & contribute!
 🚀 Let’s build smarter analytics together!
 
