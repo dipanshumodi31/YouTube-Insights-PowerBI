@@ -2,8 +2,8 @@ import requests
 import pandas as pd
 import isodate
 
-API_KEY = "AIzaSyBgx5rfdPc4q2nnGcgdydoh5Y6Jt0qAe9s"
-CHANNEL_ID = "UCX6OQ3DkcsbYNE6H8uQQuVA"
+API_KEY = "YOUR-API-KEY"
+CHANNEL_ID = "YOUR-CHANNEL-ID"
 
 # Function to get channel summary
 def get_channel_summary():
