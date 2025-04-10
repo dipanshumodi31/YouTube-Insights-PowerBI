@@ -23,10 +23,11 @@ This project automates the process of extracting YouTube channel data, storing i
 
 ---
 
-## 📊 Dashboard Preview  
+## 📊 Dashboard Overview  
 Here's a preview of the interactive Power BI dashboard built in this project:
-  ![Dashboard](dashboard.png)
-This dashboard displays key YouTube channel analytics like top-performing videos, views vs. likes, engagement rates, and more.
+![Dashboard](dashboard.png)
+This dashboard displays key Youtube channel analytics like top-performing videos, views vs. likes, engagement rates, and more.
+
 ---
 
 ## 📊 Dashboard Insights  
